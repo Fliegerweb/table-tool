@@ -22,7 +22,7 @@
 		"bundle": {
 			"active": true,
 			"category": "DeveloperTool",
-			"copyright": "",
+			"copyright": "Hobby Verlag AG",
 			"deb": {
 				"depends": []
 			},
@@ -34,7 +34,7 @@
 				"icons/icon.icns",
 				"icons/icon.ico"
 			],
-			"identifier": "com.tauri.dev",
+			"identifier": "com.fliegerweb.tabletool",
 			"longDescription": "",
 			"macOS": {
 				"entitlements": null,
